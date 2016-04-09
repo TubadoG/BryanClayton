@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>NPMK Podcast</title>
+<link>http://www.bryanclayton.net/npmk/Podcast/Podcast.html</link>
+<description>This site contains information about the North Penn High School Marching Knights.</description>
+<generator>iWeb 1.1.2</generator>
+<image>
+<url>http://www.bryanclayton.net/npmk/Podcast/Podcast_files/SCO_5623.png</url>
+<title>NPMK Podcast</title>
+<link>http://www.bryanclayton.net/npmk/Podcast/Podcast.html</link>
+</image>
+<ttl>60</ttl>
+<itunes:explicit>no</itunes:explicit>
+<itunes:author>Bryan Clayton</itunes:author>
+<itunes:owner>
+<itunes:name>Bryan Clayton</itunes:name>
+<itunes:email>claytobs@npenn.org</itunes:email>
+</itunes:owner>
+<itunes:subtitle>This site contains information about the North Penn High School Marching Knights.</itunes:subtitle>
+<itunes:summary>This site contains information about the North Penn High School Marching Knights.</itunes:summary>
+<itunes:image href="http://www.bryanclayton.net/npmk/Podcast/Podcast_files/SCO_5623.png"/>
+<item>
+<title>Spring Schedule</title>
+<link>http://www.bryanclayton.net/npmk/Podcast/D01586F5-F33B-4639-8F29-E3F2D6D5E3E6.html</link>
+<guid>http://www.bryanclayton.net/npmk/Podcast/D01586F5-F33B-4639-8F29-E3F2D6D5E3E6.html</guid>
+<pubDate>Mon, 7 May 2007 18:55:13 -0400</pubDate>
+<description>&lt;a href="http://www.bryanclayton.net/npmk/Podcast/D01586F5-F33B-4639-8F29-E3F2D6D5E3E6_files/Spring%20Schedule.m4a"&gt;&lt;img src="http://www.bryanclayton.net/npmk/Podcast/Images/SCO_5623.png" style="float:left; padding-right:10px; padding-bottom:10px; width:150px; height:150px;"/&gt;&lt;/a&gt;New Members Sessions:&#13;    Thursday May 31st 6:30-9:00 New Members Open House&#13;    Saturday June 2nd 9:00am-12:00noon&#13;    Tuesday June 5th 6:30-9:00&#13;&#13;NPMK Performances &#13;    Memorial Day Parade - Monday </description>
+<enclosure url="http://www.bryanclayton.net/npmk/Podcast/D01586F5-F33B-4639-8F29-E3F2D6D5E3E6_files/Spring%20Schedule.m4a" length="6543646" type="audio/x-m4a"/>
+<itunes:author>Bryan Clayton</itunes:author>
+<itunes:duration>00:08:16</itunes:duration>
+<itunes:subtitle>New Members Sessions:&#13;    Thursday May 31st 6:30-9:00 New Members Open House&#13;    Saturday June 2nd 9:00am-12:00noon&#13;    Tuesday June 5th 6:30-9:00&#13;&#13;NPMK Performances &#13;    Memorial Day Parade - Monday </itunes:subtitle>
+<itunes:summary>New Members Sessions:&#13;    Thursday May 31st 6:30-9:00 New Members Open House&#13;    Saturday June 2nd 9:00am-12:00noon&#13;    Tuesday June 5th 6:30-9:00&#13;&#13;NPMK Performances &#13;    Memorial Day Parade - Monday May 28th &#13;    Cannon and Derstine Ave. Lansdale Time TBA&#13;&#13;Full Unit Rehearsal&#13;    Thursday June 7th 6:30-9:00</itunes:summary>
+</item>
+<item>
+<title>Welcome</title>
+<link>http://www.bryanclayton.net/npmk/Podcast/3ACE024A-23DB-4CA5-9DC6-472CF4911232.html</link>
+<guid>http://www.bryanclayton.net/npmk/Podcast/3ACE024A-23DB-4CA5-9DC6-472CF4911232.html</guid>
+<pubDate>Sun, 6 May 2007 14:41:20 -0400</pubDate>
+<description>&lt;a href="http://www.bryanclayton.net/npmk/Podcast/3ACE024A-23DB-4CA5-9DC6-472CF4911232_files/Output.aif"&gt;&lt;img src="http://www.bryanclayton.net/npmk/Podcast/Images/NPMKLogo.png" style="float:left; padding-right:10px; padding-bottom:10px; width:150px; height:150px;"/&gt;&lt;/a&gt;The 2007 North Penn Marching Knights are happy that you have joined their podcasting comunity.  Check here ofter for information about the Marching Knights show, schedule, scores and other information</description>
+<enclosure url="http://www.bryanclayton.net/npmk/Podcast/3ACE024A-23DB-4CA5-9DC6-472CF4911232_files/Output.aif" length="4256164" type="audio/x-aiff"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:author>Bryan Clayton</itunes:author>
+<itunes:duration>00:00:24</itunes:duration>
+<itunes:subtitle>The 2007 North Penn Marching Knights are happy that you have joined their podcasting comunity.  Check here ofter for information about the Marching Knights show, schedule, scores and other information</itunes:subtitle>
+<itunes:summary>The 2007 North Penn Marching Knights are happy that you have joined their podcasting comunity.  Check here ofter for information about the Marching Knights show, schedule, scores and other information.</itunes:summary>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>NPMK Podcast</title>
+<link>http://www.bryanclayton.net/podcast.html/Site%202/Podcast/Podcast.html</link>
+<description>This site contains information about the North Penn High School Marching Knights.</description>
+<generator>iWeb 1.1.2</generator>
+<image>
+<url>http://www.bryanclayton.net/podcast.html/Site%202/Podcast/Podcast_files/NPMKLogo.png</url>
+<title>NPMK Podcast</title>
+<link>http://www.bryanclayton.net/podcast.html/Site%202/Podcast/Podcast.html</link>
+</image>
+<ttl>60</ttl>
+<itunes:explicit>no</itunes:explicit>
+<itunes:author>Bryan Clayton</itunes:author>
+<itunes:owner>
+<itunes:name>Bryan Clayton</itunes:name>
+<itunes:email>claytobs@npenn.org</itunes:email>
+</itunes:owner>
+<itunes:subtitle>This site contains information about the North Penn High School Marching Knights.</itunes:subtitle>
+<itunes:summary>This site contains information about the North Penn High School Marching Knights.</itunes:summary>
+<itunes:image href="http://www.bryanclayton.net/podcast.html/Site%202/Podcast/Podcast_files/NPMKLogo.png"/>
+<item>
+<title>Welcome</title>
+<link>http://www.bryanclayton.net/podcast.html/Site%202/Podcast/3ACE024A-23DB-4CA5-9DC6-472CF4911232.html</link>
+<guid>http://www.bryanclayton.net/podcast.html/Site%202/Podcast/3ACE024A-23DB-4CA5-9DC6-472CF4911232.html</guid>
+<pubDate>Sun, 6 May 2007 14:41:20 -0400</pubDate>
+<description>&lt;a href="http://www.bryanclayton.net/podcast.html/Site%202/Podcast/3ACE024A-23DB-4CA5-9DC6-472CF4911232_files/Output.aif"&gt;&lt;img src="http://www.bryanclayton.net/podcast.html/Site%202/Podcast/Images/NPMKLogo.png" style="float:left; padding-right:10px; padding-bottom:10px; width:150px; height:150px;"/&gt;&lt;/a&gt;The 2007 North Penn Marching Knights are happy that you have joined their podcasting comunity.  Check here ofter for information about the Marching Knights show, schedule, scores and other information</description>
+<enclosure url="http://www.bryanclayton.net/podcast.html/Site%202/Podcast/3ACE024A-23DB-4CA5-9DC6-472CF4911232_files/Output.aif" length="4256164" type="audio/x-aiff"/>
+<itunes:explicit>no</itunes:explicit>
+<itunes:author>Bryan Clayton</itunes:author>
+<itunes:duration>00:00:24</itunes:duration>
+<itunes:subtitle>The 2007 North Penn Marching Knights are happy that you have joined their podcasting comunity.  Check here ofter for information about the Marching Knights show, schedule, scores and other information</itunes:subtitle>
+<itunes:summary>The 2007 North Penn Marching Knights are happy that you have joined their podcasting comunity.  Check here ofter for information about the Marching Knights show, schedule, scores and other information.</itunes:summary>
+</item>
+</channel>
+</rss>
